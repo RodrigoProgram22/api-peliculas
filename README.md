@@ -1,27 +1,27 @@
 # ApiPelis
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+Este proyecto utiliza Angular CLI versión 13.2.5 y tiene como objetivo mostrar información sobre películas utilizando la API OMDb.
 
-## Development server
+### Servidor de desarrollo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ejecuta ng serve para iniciar el servidor de desarrollo. Luego, navega a http://localhost:4200/ en tu navegador. La aplicación se recargará automáticamente si realizas cambios en los archivos de origen.
 
-## Code scaffolding
+### Generación de código
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Puedes utilizar ng generate component component-name para generar un nuevo componente en el proyecto. También puedes usar ng generate directive|pipe|service|class|guard|interface|enum|module para generar otros tipos de elementos en Angular.
 
-## Build
+### Construcción
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Ejecuta ng build para compilar el proyecto. Los artefactos de construcción se almacenarán en el directorio dist/.
 
-## Running unit tests
+### Ejecución de pruebas unitarias
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Ejecuta ng test para ejecutar pruebas unitarias a través de Karma.
 
-## Running end-to-end tests
+### Ejecución de pruebas end-to-end
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Ejecuta ng e2e para ejecutar pruebas end-to-end en una plataforma de tu elección. Para usar este comando, primero necesitas agregar un paquete que implemente capacidades de pruebas end-to-end.
 
-## Further help
+### Ayuda adicional
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para obtener más ayuda sobre Angular CLI, puedes ejecutar ng help o visitar la página de Resumen y Referencia de Comandos de Angular CLI.
